@@ -1,9 +1,5 @@
 // -----------------------------------------
-// CREATED BY MR SAHAN OFC
-// DON'T MISS STAR ICON
-// ALWAYS USED GEMINI API KEY
-// CONTACT ME
-// +94720797915
+// Created By CHETHMINA KAVISHAN
 // ------------------------------------------
 
 
